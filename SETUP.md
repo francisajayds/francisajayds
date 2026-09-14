@@ -1,8 +1,8 @@
 # Setup
 
-This package is for the `nerajlal/nerajlal` profile repository.
+This package is for the `francisajayds/francisajayds` profile repository.
 
-1. Copy the files into `github.com/nerajlal/nerajlal`.
+1. Copy the files into `github.com/francisajayds/francisajayds`.
 2. Make sure GitHub Actions are enabled.
 3. Open **Actions → Generate GitHub Metrics → Run workflow**.
 4. Open **Actions → Generate Contribution Snake → Run workflow**.
