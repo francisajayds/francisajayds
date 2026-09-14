@@ -1,28 +1,34 @@
-<div align="left">
+<div align="center">
 
-<img align="right" src="Image.jpg" width="220" alt="Francis Ajay D S">
+<table width="100%">
+<tr>
 
-<h1>
-  Hey there, I'm Francis Ajay D S 👋
-</h1>
+<td width="68%" align="left" valign="middle">
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=650&lines=SAP+BTP+Certified+Developer;SAP+CAPM+%7C+Node.js+%7C+SAPUI5;Enterprise+Cloud+Application+Developer;SAP+S%2F4HANA+%7C+OData+%7C+REST;Cloud+Foundry+%7C+HANA+%7C+Fiori" alt="Typing SVG">
-</p>
+<h1>Hey there, I'm Francis Ajay D S 👋</h1>
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=36BCF7&center=false&vCenter=true&width=600&lines=SAP+BTP+Certified+Developer;SAP+CAPM+%7C+Node.js+%7C+SAPUI5;Enterprise+Cloud+Application+Developer;SAP+S%2F4HANA+%7C+OData+%7C+REST;Cloud+Foundry+%7C+HANA+%7C+Fiori" alt="Typing SVG">
+
+<br>
 
 <a href="https://github.com/francisajayds">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/francis-ajay-d-s-8a9839276/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7" alt="LinkedIn">
 </a>
 
-</p>
+</td>
 
-<br clear="both">
+<td width="32%" align="center" valign="middle">
+
+<img src="./Image.jpg" width="150" alt="Francis Ajay D S">
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -34,15 +40,17 @@
 
 <p>
 Building modern enterprise applications with
-<strong>SAP BTP</strong>, <strong>CAPM</strong>,
-<strong>SAPUI5</strong> and <strong>S/4HANA</strong>.
+<strong>SAP BTP</strong>,
+<strong>CAPM</strong>,
+<strong>SAPUI5</strong> and
+<strong>S/4HANA</strong>.
 </p>
 
 </div>
 
-<br>
+---
 
-<table align="center" width="100%">
+<table width="100%">
 
 <tr>
 
@@ -72,29 +80,29 @@ I enjoy working across the application stack — from backend services and data 
 
 <td width="45%" align="center" valign="middle">
 
-### ⚡ Technology Stack
+## ⚡ Technology Stack
 
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,python,java,git,github,docker,linux&perline=3&theme=dark" width="90%" alt="Technology Stack">
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,python,java,git,github,docker,linux&perline=3&theme=dark" width="85%" alt="Technology Stack">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SAP%20BTP-0D1117?style=for-the-badge&logo=sap&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/SAP%20BTP-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
 <br>
 
-<img src="https://img.shields.io/badge/SAP%20CAPM-0D1117?style=for-the-badge&logo=sap&logoColor=79C0FF">
+<img src="https://img.shields.io/badge/SAP%20CAPM-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
 <br>
 
-<img src="https://img.shields.io/badge/SAPUI5%20%7C%20Fiori-0D1117?style=for-the-badge&logo=sap&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/SAPUI5%20%7C%20Fiori-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
 <br>
 
-<img src="https://img.shields.io/badge/S%2F4HANA%20%7C%20OData-0D1117?style=for-the-badge&logo=sap&logoColor=79C0FF">
+<img src="https://img.shields.io/badge/S%2F4HANA%20%7C%20OData-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
 <br>
 
-<img src="https://img.shields.io/badge/Cloud%20Foundry-0D1117?style=for-the-badge&logo=cloudfoundry&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/Cloud%20Foundry-0D1117?style=for-the-badge&logo=cloudfoundry&logoColor=36BCF7">
 
 </td>
 
@@ -141,8 +149,7 @@ CDS
 SAPUI5  
 SAP Fiori  
 HTML5  
-CSS  
-JavaScript
+CSS
 
 </td>
 
@@ -169,8 +176,6 @@ BTP Services
 
 ## 🚀 What I Like Building
 
-<p>
-
 <strong>Enterprise Applications</strong>
 &nbsp; • &nbsp;
 <strong>Cloud Solutions</strong>
@@ -179,9 +184,7 @@ BTP Services
 &nbsp; • &nbsp;
 <strong>SAP Integrations</strong>
 
-</p>
-
-<p>
+<br><br>
 
 <strong>CAP Services</strong>
 &nbsp; • &nbsp;
@@ -191,10 +194,9 @@ BTP Services
 &nbsp; • &nbsp;
 <strong>Cloud Deployments</strong>
 
-</p>
-
 </div>
 
+---
 
 <div align="center">
 
@@ -210,10 +212,10 @@ srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/git
 
 <source
 media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/francisajayds/francisajds/output/github-contribution-grid-snake.svg">
+srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
 
 <img
-src="https://raw.githubusercontent.com/francisajayds/francisajds/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg"
 width="90%"
 alt="GitHub Contribution Snake">
 
@@ -225,7 +227,7 @@ alt="GitHub Contribution Snake">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Innovate&fontSize=20&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=12,20,24" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Innovate&fontSize=20&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=12,20,24" width="100%" alt="Footer">
 
 <br>
 
