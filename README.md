@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="Image.jpg" width="230" hspace="20" alt="Francis Ajay D S">
+<img align="right" src="Image.jpg" width="220" alt="Francis Ajay D S">
 
 <h1>
   Hey there, I'm Francis Ajay D S 👋
@@ -200,31 +200,28 @@ BTP Services
 
 ## 🐍 Contribution Snake
 
+<br>
+
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/francisajayds/francisajds/output/github-contribution-grid-snake.svg">
 
-  <img src="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+<img
+src="https://raw.githubusercontent.com/francisajayds/francisajds/output/github-contribution-grid-snake.svg"
+width="90%"
+alt="GitHub Contribution Snake">
 
 </picture>
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
-
-<br>
-
-</div>
-
-<br>
-
----
 
 <div align="center">
 
