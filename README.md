@@ -2,6 +2,7 @@
 
 <table width="100%">
 <tr>
+
 <td width="68%" align="left" valign="middle">
 
 <h1>Hey there, I'm Francis Ajay D S 👋</h1>
@@ -25,6 +26,7 @@
 <img src="./Image.jpg" width="150" alt="Francis Ajay D S">
 
 </td>
+
 </tr>
 </table>
 
@@ -34,7 +36,7 @@
 
 <div align="center">
 
-<h2>☁️ SAP BTP Developer</h2>
+## ☁️ SAP BTP Developer
 
 <p>
 Building modern enterprise applications with
@@ -49,128 +51,121 @@ Building modern enterprise applications with
 ---
 
 <table width="100%">
+
 <tr>
 
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-I'm <strong>Francis Ajay D S</strong>, an
-<strong>SAP BTP Certified Developer</strong> focused on building
-modern enterprise applications and cloud-based business solutions.
-</p>
+I'm **Francis Ajay D S**, an **SAP BTP Certified Developer** focused on building modern enterprise applications and cloud-based business solutions.
 
-<p>
-I enjoy working across the application stack — from backend services
-and data models to responsive enterprise UIs, integrations,
-security and cloud deployment.
-</p>
+I enjoy working across the application stack — from backend services and data models to responsive enterprise UIs, integrations, security and cloud deployment.
 
-<h3>What I Work With</h3>
+### What I Work With
 
-<p>
-☁️ SAP Business Technology Platform<br>
-🧩 SAP Cloud Application Programming Model<br>
-🟢 Node.js & JavaScript<br>
-🎨 SAPUI5 & Fiori<br>
-🔗 OData V2 / V4 & REST APIs<br>
-🗄️ SAP HANA & S/4HANA<br>
-🚀 SAP BTP Cloud Foundry<br>
-🔐 XSUAA & Role-Based Access<br>
-🔄 Enterprise Integrations<br>
-🏢 SAP Build Work Zone
-</p>
+- ☁️ SAP Business Technology Platform
+- 🧩 SAP Cloud Application Programming Model
+- 🟢 Node.js & JavaScript
+- 🎨 SAPUI5 & Fiori
+- 🔗 OData V2 / V4 & REST APIs
+- 🗄️ SAP HANA & S/4HANA
+- 🚀 SAP BTP Cloud Foundry
+- 🔐 XSUAA & Role-Based Access
+- 🔄 Enterprise Integrations
+- 🏢 SAP Build Work Zone
+- ⚙️ SAP Build & BTP Services
 
 </td>
 
-<td width="48%" align="center" valign="top">
+<td width="45%" align="center" valign="middle">
 
-<h2>⚡ Technology Stack</h2>
+## ⚡ Technology Stack
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,git,github,docker,linux&perline=3&theme=dark" width="75%" alt="Technology Stack">
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,python,java,git,github,docker,linux&perline=3&theme=dark" width="85%" alt="Technology Stack">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SAP%20BTP-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/SAP%20CAPM-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/SAPUI5%20%7C%20Fiori-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/S%2F4HANA%20%7C%20OData-0D1117?style=for-the-badge&logo=sap&logoColor=36BCF7">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Cloud%20Foundry-0D1117?style=for-the-badge&logo=cloudfoundry&logoColor=36BCF7">
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 <div align="center">
 
-<h2>🧩 Core Technologies</h2>
+## 🧩 Core Technologies
 
 <table width="90%">
+
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-<h3>☁️ SAP Cloud</h3>
+### ☁️ SAP Cloud
 
-SAP BTP<br>
-Cloud Foundry<br>
-HANA Cloud<br>
+SAP BTP  
+Cloud Foundry  
+HANA Cloud  
 Build Work Zone
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-<h3>⚙️ Backend</h3>
+### ⚙️ Backend
 
-CAPM<br>
-Node.js<br>
-JavaScript<br>
+CAPM  
+Node.js  
+JavaScript  
 CDS
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-<h3>🎨 Frontend</h3>
+### 🎨 Frontend
 
-SAPUI5<br>
-SAP Fiori<br>
-HTML5<br>
+SAPUI5  
+SAP Fiori  
+HTML5  
 CSS
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-<h3>🔗 Integration</h3>
+### 🔗 Integration
 
-OData V2 / V4<br>
-REST APIs<br>
-S/4HANA<br>
+OData V2/V4  
+REST APIs  
+S/4HANA  
 BTP Services
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -179,9 +174,7 @@ BTP Services
 
 <div align="center">
 
-<h2>🚀 What I Like Building</h2>
-
-<p>
+## 🚀 What I Like Building
 
 <strong>Enterprise Applications</strong>
 &nbsp; • &nbsp;
@@ -191,9 +184,7 @@ BTP Services
 &nbsp; • &nbsp;
 <strong>SAP Integrations</strong>
 
-</p>
-
-<p>
+<br><br>
 
 <strong>CAP Services</strong>
 &nbsp; • &nbsp;
@@ -203,32 +194,30 @@ BTP Services
 &nbsp; • &nbsp;
 <strong>Cloud Deployments</strong>
 
-</p>
-
 </div>
 
 ---
 
 <div align="center">
 
-<h2>🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <br>
 
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
 
-<img
-src="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg"
-width="90%"
-alt="GitHub Contribution Snake">
+  <img
+    src="https://raw.githubusercontent.com/francisajayds/francisajds/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="GitHub Contribution Snake">
 
 </picture>
 
@@ -238,15 +227,12 @@ alt="GitHub Contribution Snake">
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Innovate&fontSize=20&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=12,20,24"
-width="100%"
-alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Innovate&fontSize=20&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=12,20,24" width="100%" alt="Footer">
 
 <br>
 
 <sub>
-<strong>Francis Ajay D S</strong> · SAP BTP · CAPM · SAPUI5 · Fiori
+<b>Francis Ajay D S</b> · SAP BTP · CAPM · SAPUI5 · Fiori
 </sub>
 
 </div>
