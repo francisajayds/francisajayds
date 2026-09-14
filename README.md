@@ -1,34 +1,48 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="250" hspace="15" alt="Profile">
+<img align="right" src="./img.png" width="250" hspace="15" alt="Francis Ajay D S">
 
-<h1>Hey there, I'm Francis Ajay DS 👋</h1>
+<h1>Hey there, I'm Francis Ajay D S 👋</h1>
 
-<a href="https://github.com/">
+<a href="https://github.com/francisajayds">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=600&lines=SAP+BTP+Developer;CAP+%7C+SAPUI5+%7C+Fiori+Developer;Building+Enterprise+Cloud+Applications;SAP+HANA+Cloud+%7C+Cloud+Foundry;Integration+%7C+APIs+%7C+Event-Driven+Architecture;Exploring+Enterprise+AI+%26+Joule" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=650&lines=SAP+BTP+Certified+Developer;SAP+CAPM+%7C+Node.js+%7C+SAPUI5;Building+Enterprise+Cloud+Applications;SAP+S%2F4HANA+%7C+OData+%7C+REST+Integrations;Cloud+Foundry+%7C+HANA+Cloud+%7C+Work+Zone;Enterprise+Automation+%26+Business+Solutions" alt="Typing SVG">
 
 </a>
 
 <p>
 
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
-  </a>
+<a href="https://github.com/francisajayds">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
+</a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
-  </a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
+</a>
 
 </p>
 
 <p>
 
-  <img src="https://img.shields.io/badge/SAP%20BTP-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4" alt="SAP BTP">
+<img src="https://img.shields.io/badge/SAP%20BTP-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4" alt="SAP BTP">
 
-  <img src="https://img.shields.io/badge/CAP-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0" alt="CAP">
+<img src="https://img.shields.io/badge/SAP%20CAPM-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0" alt="SAP CAPM">
 
-  <img src="https://img.shields.io/badge/SAPUI5%20%7C%20Fiori-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4" alt="SAPUI5">
+<img src="https://img.shields.io/badge/SAPUI5%20%7C%20Fiori-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4" alt="SAPUI5">
+
+</p>
+
+<p>
+
+<a href="https://github.com/francisajayds?tab=followers">
+<img src="https://img.shields.io/github/followers/francisajayds?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+</a>
+
+<a href="https://github.com/francisajayds?tab=repositories">
+<img src="https://img.shields.io/github/stars/francisajayds?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=francisajayds&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
 
 </p>
 
@@ -40,7 +54,7 @@
 
 <div align="center">
 
-## ☁️ SAP BTP • Enterprise Applications • Cloud Architecture
+## ☁️ SAP BTP Developer | Enterprise Cloud Applications
 
 </div>
 
@@ -52,50 +66,62 @@
 
 ## 👨‍💻 About Me
 
-I'm a **SAP BTP Developer** focused on designing and building modern enterprise applications on **SAP Business Technology Platform**.
+I'm **Francis Ajay D S**, an **SAP BTP Certified Developer** with **4+ years of professional experience** focused on designing, developing, integrating, and deploying enterprise applications on **SAP Business Technology Platform**.
 
-I work across the application stack — from **data modeling and backend services** to **SAPUI5/Fiori user interfaces, integrations, security, CI/CD, and cloud deployment**.
+My core expertise includes **SAP CAPM with Node.js, SAP UI5, SAP Fiori, OData V2/V4, CDS, JavaScript, SAP S/4HANA integration, and SAP BTP Cloud Foundry**.
 
-I enjoy turning business requirements into scalable applications following modern cloud and enterprise architecture principles.
+I enjoy working across the complete application lifecycle:
+
+**Business Requirement → Architecture → Development → Integration → Security → Deployment → Production**
 
 ### 🚀 What I Work With
 
-* ☁️ **SAP Business Technology Platform**
-* 🧩 **SAP CAP / CAPM & CDS**
-* 🎨 **SAPUI5 & Fiori**
-* 🗄️ **SAP HANA Cloud**
-* 🚀 **SAP Cloud Foundry**
-* 🔗 **SAP Integration Suite**
-* ⚡ **Event Mesh & Event-Driven Architecture**
-* 🔄 **REST APIs & Enterprise Integrations**
-* 🔧 **GitHub, CI/CD & DevOps**
-* 🏗️ **MTA & Cloud Application Architecture**
-* 🤖 **Enterprise AI, Joule & AI Integrations**
-* 🔐 **Security, Authentication & Authorization**
+- ☁️ SAP Business Technology Platform
+- 🧩 SAP Cloud Application Programming Model (CAPM)
+- 🟢 Node.js & JavaScript
+- 🎨 SAP UI5 & SAP Fiori
+- 🔗 OData V2 & V4
+- 🗄️ SAP HANA
+- 🔄 REST & OData API Integrations
+- 🚀 SAP BTP Cloud Foundry
+- 🔐 XSUAA & Role-Based Access
+- 🏢 SAP S/4HANA On-Premises & Cloud
+- 🔧 SAP Build Work Zone
+- ⚙️ SAP Job Scheduler & Application Autoscaler
+- 🔔 Alert Notification
+- 🧩 SAP Build Apps & Build Process Automation
 
-> **Build with purpose. Architect for scale. Automate what matters.**
+> **Building enterprise solutions that turn complex business processes into scalable applications.**
 
 </td>
 
 <td width="38%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,python,git,github,linux,docker&perline=3&theme=dark" width="90%" alt="Technologies">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,java,git,github,docker,linux&perline=3&theme=dark" width="90%" alt="Technologies">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP">
+<img src="https://img.shields.io/badge/SAP%20BTP-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
 
 <br>
 
-<img src="https://img.shields.io/badge/SAP%20CAP-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4" alt="SAP CAP">
+<img src="https://img.shields.io/badge/CAPM%20%7C%20Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=F8BBD0">
 
 <br>
 
-<img src="https://img.shields.io/badge/SAPUI5%20%2F%20Fiori-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0" alt="SAPUI5">
+<img src="https://img.shields.io/badge/SAPUI5%20%7C%20Fiori-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4">
 
 <br>
 
-<img src="https://img.shields.io/badge/HANA%20Cloud-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4" alt="HANA Cloud">
+<img src="https://img.shields.io/badge/OData%20V2%20%7C%20V4-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
+
+<br>
+
+<img src="https://img.shields.io/badge/HANA%20%7C%20S%2F4HANA-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0">
+
+<br>
+
+<img src="https://img.shields.io/badge/Cloud%20Foundry-161B22?style=for-the-badge&logo=cloudfoundry&logoColor=EF93C4">
 
 </td>
 
@@ -103,141 +129,146 @@ I enjoy turning business requirements into scalable applications following moder
 
 </table>
 
-<br>
-
 ---
 
-<div align="center">
-
-## 🏗️ What I Build
-
-<table width="90%">
-
-<tr>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**BTP Applications**
-
-SAP CAP
-Cloud Foundry
-MTA
-HANA Cloud
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Enterprise UI**
-
-SAPUI5
-Fiori
-Responsive UX
-Business Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔗
-
-**Integration**
-
-REST APIs
-Integration Suite
-Event Mesh
-Enterprise Services
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI & Automation**
-
-Enterprise AI
-Joule
-LLM Integrations
-Developer Productivity
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-## 🛠️ Technology Stack
+## 🧰 Core Technology Stack
 
 <div align="center">
 
 ### SAP & Cloud
 
 <img src="https://img.shields.io/badge/SAP%20BTP-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
-<img src="https://img.shields.io/badge/SAP%20CAP-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0">
+<img src="https://img.shields.io/badge/SAP%20CAPM-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0">
 <img src="https://img.shields.io/badge/SAPUI5-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4">
-<img src="https://img.shields.io/badge/Fiori-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
-<img src="https://img.shields.io/badge/HANA%20Cloud-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0">
+<img src="https://img.shields.io/badge/SAP%20Fiori-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
+<img src="https://img.shields.io/badge/SAP%20HANA-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0">
 <img src="https://img.shields.io/badge/Cloud%20Foundry-161B22?style=for-the-badge&logo=cloudfoundry&logoColor=EF93C4">
 
-### Development
+### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,java,python,git,github,docker,linux&perline=9&theme=dark" alt="Development technologies">
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,python&perline=5&theme=dark" alt="Backend technologies">
 
-### DevOps & Integration
+<br><br>
 
-<img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=EF93C4">
-<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=for-the-badge&logo=githubactions&logoColor=F8BBD0">
-<img src="https://img.shields.io/badge/Integration%20Suite-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4">
-<img src="https://img.shields.io/badge/Event%20Mesh-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
+<img src="https://img.shields.io/badge/OData%20V2%20%7C%20V4-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
+<img src="https://img.shields.io/badge/REST%20APIs-161B22?style=for-the-badge&logo=fastapi&logoColor=F8BBD0">
+<img src="https://img.shields.io/badge/CDS-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4">
+
+### Integration & Platform Services
+
+<img src="https://img.shields.io/badge/Integration%20Services-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
+<img src="https://img.shields.io/badge/Destination%20Service-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0">
+<img src="https://img.shields.io/badge/Connectivity%20Service-161B22?style=for-the-badge&logo=sap&logoColor=FF69B4">
+<img src="https://img.shields.io/badge/Job%20Scheduler-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
+<img src="https://img.shields.io/badge/Alert%20Notification-161B22?style=for-the-badge&logo=sap&logoColor=F8BBD0">
+
+### Development & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&perline=4&theme=dark" alt="Development tools">
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🏢 Professional Experience
 
-<table width="100%">
+### 🚀 Ladera Technology
+**SAP BTP Developer** · Oct 2023 – Present
 
-<tr>
+Working on enterprise SAP BTP solutions across multiple projects involving CAPM, SAPUI5, S/4HANA integration, business automation, and cloud deployment. :contentReference[oaicite:4]{index=4}
 
-<td width="50%" valign="top">
+#### 🏍️ Royal Enfield
 
-### ☁️ SAP BTP
+**Role: SAP BTP CAPM Developer**
 
-* Building CAP-based enterprise applications
-* Designing scalable BTP architectures
-* SAP HANA Cloud data models
-* Cloud Foundry deployments
-* MTA-based application development
-* CI/CD automation
+- Developed a vehicle pricing automation solution on SAP BTP.
+- Built backend architecture using **SAP CAPM and Node.js**.
+- Implemented dynamic pricing based on order type, region, model, and pricing slabs.
+- Designed a goal-seek / reverse-solver engine to derive dealer NSP from target pricing.
+- Built master-data maintenance and approval workflows.
+- Developed dealer allocation and billing applications using **SAP UI5**.
+- Integrated SAP S/4HANA OData services.
+- Implemented real-time fund availability and credit-limit validations.
+- Developed batch OData CREATE/UPDATE processing.
+- Deployed applications on **SAP BTP Cloud Foundry** with **XSUAA**.
+- Configured **SAP Build Work Zone** as the unified enterprise access point. :contentReference[oaicite:5]{index=5}
 
-</td>
+**Technologies:**  
+SAP BTP · CAPM · Node.js · SAP UI5 · SAP Fiori · OData V2 · S/4HANA · XSUAA · Cloud Foundry · Build Work Zone · JavaScript
 
-<td width="50%" valign="top">
+---
 
-### 🤖 Next Generation Enterprise Apps
+### ☁️ SAP Sales & Service Cloud
 
-* Enterprise AI
-* Joule & AI-assisted workflows
-* LLM integrations
-* Event-driven architecture
-* Developer productivity
-* Clean Core principles
+**Role: SAP BTP Developer**
 
-</td>
+- Worked on SAP Sales & Service Cloud integrated with SAP S/4HANA.
+- Worked with Leads, Opportunities, Quotes, and Solution Orders.
+- Developed custom business objects and business logic.
+- Built responsive SAP UI5 applications.
+- Developed reusable CAPM APIs and microservices.
+- Integrated SAP and third-party systems.
+- Worked with enterprise clients including **Illumina** and **Dubai Electricity and Water Management (DEWM)**.
+- Built solutions using SAP Build Apps and SAP Build Process Automation. :contentReference[oaicite:6]{index=6}
 
-</tr>
+**Technologies:**  
+SAP Sales & Service Cloud · SAP BTP · CAPM · Node.js · UI5 · S/4HANA · Build Apps · Build Process Automation · Build Work Zone · Job Scheduler · GitHub
 
-</table>
+---
+
+### 🚜 GMMCO
+
+**Role: SAP BTP Developer**
+
+- Designed and developed SAP CAP Node.js applications.
+- Created CDS-based data models and service definitions.
+- Developed OData services for order, shipment, delivery, pricing, and fulfilment.
+- Implemented CAP service handlers and business validations.
+- Integrated external REST APIs.
+- Implemented real-time order transmission to backend systems.
+- Developed delivery-cost determination logic.
+- Built SAP Fiori/UI5 applications for order management and fulfilment. :contentReference[oaicite:7]{index=7}
+
+**Technologies:**  
+SAP BTP · CAPM · Node.js · JavaScript · UI5 · Fiori · REST APIs · S/4HANA · Job Scheduler · Build Process Automation
+
+---
+
+### 💼 Tata Consultancy Services
+
+**Investment Banker (Associate)** · Mar 2022 – Oct 2023
+
+Worked on **Morgan Stanley** investment banking trade settlement operations, supporting EMEA markets including Italy, Sweden, Denmark, Finland, Norway, and Austria.
+
+- L1 production support
+- Trade settlement operations
+- Reconciliation and clearance
+- Settlement issue investigation
+- Exception reporting
+- SAFE, Mainframe Systems, Qwest and Euroclear :contentReference[oaicite:8]{index=8}
+
+---
+
+## 📜 Certification
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SAP%20CAPM%20BTP-Certified%20Developer-161B22?style=for-the-badge&logo=sap&logoColor=EF93C4">
+
+</div>
+
+**SAP CAPM BTP Certified Developer** — SAP Certification via Credly. :contentReference[oaicite:9]{index=9}
+
+---
+
+## 🎓 Education
+
+| Institution | Qualification | Duration |
+|---|---|---|
+| **KL University, Guntur** | MCA — Pursuing | 2025 – 2027 |
+| **Sasurie College of Arts and Science** | B.Sc. Mathematics | 2018 – 2021 |
+
+:contentReference[oaicite:10]{index=10}
 
 ---
 
@@ -257,11 +288,11 @@ Developer Productivity
 
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
 
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
 
 </picture>
 
@@ -273,9 +304,9 @@ Developer Productivity
 
 <div align="center">
 
-### 💡 Engineering Philosophy
+## 💡 Engineering Philosophy
 
-> **Think beyond the code. Build for the business. Architect for the future.**
+> **Understand the business. Build the solution. Integrate the systems. Ship it to production.**
 
 <br>
 
@@ -283,6 +314,6 @@ Developer Productivity
 
 <br>
 
-<sub><b>© Francis Ajay DS</b> · SAP BTP · CAP · Fiori · Cloud · Enterprise AI</sub>
+<sub><b>© Francis Ajay D S</b> · SAP BTP · CAPM · SAPUI5 · Fiori · Enterprise Cloud</sub>
 
 </div>
