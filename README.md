@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="./image.png" width="230" hspace="20" alt="Francis Ajay D S">
+<img align="right" src="Image.jpg" width="230" hspace="20" alt="Francis Ajay D S">
 
 <h1>
   Hey there, I'm Francis Ajay D S 👋
@@ -202,11 +202,11 @@ BTP Services
 
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
 
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
 
 </picture>
 
