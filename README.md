@@ -206,18 +206,18 @@ BTP Services
 
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake-dark.svg">
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg">
 
-<img
-src="https://raw.githubusercontent.com/francisajayds/francisajayds/output/github-contribution-grid-snake.svg"
-width="90%"
-alt="GitHub Contribution Snake">
+  <img
+    src="https://raw.githubusercontent.com/francisajayds/francisajds/output/github-contribution-grid-snake.svg"
+    width="90%"
+    alt="GitHub Contribution Snake">
 
 </picture>
 
