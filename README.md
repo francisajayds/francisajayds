@@ -195,17 +195,6 @@ BTP Services
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img src="./profile/metrics.svg" width="100%" alt="GitHub Metrics">
-
-</div>
-
----
 
 <div align="center">
 
